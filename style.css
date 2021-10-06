@@ -1,0 +1,30 @@
+H1{
+    color:chartreuse;
+
+}
+
+.header{
+background-color: #20A20A;
+display:flex;
+justify-content:space-between;
+}
+.menu{
+    background-color:rgba(252, 248, 4, 0.932);
+    display:flex;
+    justify-content:space-between;
+    }
+.great{
+    background-color: rgba(252, 248, 4, 0.932);
+    display:flex;
+flex-wrap: wrap;
+justify-content:space-evenly;
+}
+.footer{
+    background-color: rgba(10, 213, 240, 0.986);
+    display:flex;
+    justify-content:flex-end;
+    }
+ body{
+     background-color:#808080
+ }
+
